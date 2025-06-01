@@ -1,0 +1,15 @@
+Order Report
+=============================
+Order ID     : 6
+Date & Time  : 18-04-2025 16:17:04
+Table No.    : 5
+Server       : Arnav
+
+Ordered Items:
+-----------------------------------------
+Item Name            Unit Price Quantity  
+-----------------------------------------
+Water                49.00      4         
+Ice cream            89.00      2         
+-----------------------------------------
+Total Amount: ₹ 374.00

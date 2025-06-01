@@ -1,0 +1,14 @@
+Order Report
+=============================
+Order ID     : 1
+Date & Time  : 17-04-2025 06:10:22
+Table No.    : 10
+Server       : Lucky
+
+Ordered Items:
+-----------------------------------------
+Item Name            Unit Price Quantity  
+-----------------------------------------
+Paneer Tikka         59.00      2         
+-----------------------------------------
+Total Amount: ₹ 118.00

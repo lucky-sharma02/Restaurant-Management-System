@@ -1,0 +1,15 @@
+Order Report
+=============================
+Order ID     : 5
+Date & Time  : 17-04-2025 23:13:10
+Table No.    : 2
+Server       : xyz
+
+Ordered Items:
+-----------------------------------------
+Item Name            Unit Price Quantity  
+-----------------------------------------
+Pizza                249.00     2         
+Burger               999.00     3         
+-----------------------------------------
+Total Amount: ₹ 3495.00
